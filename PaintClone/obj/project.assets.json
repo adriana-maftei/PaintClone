@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mafte\\source\\repos\\PaintClone\\PaintClone\\PaintClone.csproj",
+      "projectUniqueName": "C:\\Users\\mafte\\Documents\\GitHub\\PaintClone\\PaintClone\\PaintClone.csproj",
       "projectName": "PaintClone",
-      "projectPath": "C:\\Users\\mafte\\source\\repos\\PaintClone\\PaintClone\\PaintClone.csproj",
+      "projectPath": "C:\\Users\\mafte\\Documents\\GitHub\\PaintClone\\PaintClone\\PaintClone.csproj",
       "packagesPath": "C:\\Users\\mafte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mafte\\source\\repos\\PaintClone\\PaintClone\\obj\\",
+      "outputPath": "C:\\Users\\mafte\\Documents\\GitHub\\PaintClone\\PaintClone\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
