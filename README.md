@@ -9,3 +9,5 @@ Main features I learned and build while developing this project:
 - creating dialog boxes for color picking and file saving
 - working with VS tools and properties features
 - build an executable file from a VS solution
+
+![paint](https://user-images.githubusercontent.com/115250887/206472317-009553d4-e0e9-4920-b6b1-09de2248e50b.PNG)
